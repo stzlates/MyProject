@@ -1,0 +1,9 @@
+C:\Users\This_User\Desktop\לימודים\יד\מסלול\H.W\Project\Algoritem\bin\Debug\netcoreapp3.1\Algoritem.deps.json
+C:\Users\This_User\Desktop\לימודים\יד\מסלול\H.W\Project\Algoritem\bin\Debug\netcoreapp3.1\Algoritem.dll
+C:\Users\This_User\Desktop\לימודים\יד\מסלול\H.W\Project\Algoritem\bin\Debug\netcoreapp3.1\Algoritem.pdb
+C:\Users\This_User\Desktop\לימודים\יד\מסלול\H.W\Project\Algoritem\obj\Debug\netcoreapp3.1\Algoritem.csprojAssemblyReference.cache
+C:\Users\This_User\Desktop\לימודים\יד\מסלול\H.W\Project\Algoritem\obj\Debug\netcoreapp3.1\Algoritem.AssemblyInfoInputs.cache
+C:\Users\This_User\Desktop\לימודים\יד\מסלול\H.W\Project\Algoritem\obj\Debug\netcoreapp3.1\Algoritem.AssemblyInfo.cs
+C:\Users\This_User\Desktop\לימודים\יד\מסלול\H.W\Project\Algoritem\obj\Debug\netcoreapp3.1\Algoritem.csproj.CoreCompileInputs.cache
+C:\Users\This_User\Desktop\לימודים\יד\מסלול\H.W\Project\Algoritem\obj\Debug\netcoreapp3.1\Algoritem.dll
+C:\Users\This_User\Desktop\לימודים\יד\מסלול\H.W\Project\Algoritem\obj\Debug\netcoreapp3.1\Algoritem.pdb

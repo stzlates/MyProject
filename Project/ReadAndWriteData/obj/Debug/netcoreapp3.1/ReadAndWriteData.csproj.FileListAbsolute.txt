@@ -1,0 +1,12 @@
+C:\Users\This_User\Desktop\לימודים\יד\מסלול\H.W\Project\ReadAndWriteData\bin\Debug\netcoreapp3.1\ReadAndWriteData.deps.json
+C:\Users\This_User\Desktop\לימודים\יד\מסלול\H.W\Project\ReadAndWriteData\bin\Debug\netcoreapp3.1\ReadAndWriteData.dll
+C:\Users\This_User\Desktop\לימודים\יד\מסלול\H.W\Project\ReadAndWriteData\bin\Debug\netcoreapp3.1\ReadAndWriteData.pdb
+C:\Users\This_User\Desktop\לימודים\יד\מסלול\H.W\Project\ReadAndWriteData\obj\Debug\netcoreapp3.1\ReadAndWriteData.csprojAssemblyReference.cache
+C:\Users\This_User\Desktop\לימודים\יד\מסלול\H.W\Project\ReadAndWriteData\obj\Debug\netcoreapp3.1\ReadAndWriteData.AssemblyInfoInputs.cache
+C:\Users\This_User\Desktop\לימודים\יד\מסלול\H.W\Project\ReadAndWriteData\obj\Debug\netcoreapp3.1\ReadAndWriteData.AssemblyInfo.cs
+C:\Users\This_User\Desktop\לימודים\יד\מסלול\H.W\Project\ReadAndWriteData\obj\Debug\netcoreapp3.1\ReadAndWriteData.csproj.CoreCompileInputs.cache
+C:\Users\This_User\Desktop\לימודים\יד\מסלול\H.W\Project\ReadAndWriteData\obj\Debug\netcoreapp3.1\ReadAndWriteData.dll
+C:\Users\This_User\Desktop\לימודים\יד\מסלול\H.W\Project\ReadAndWriteData\obj\Debug\netcoreapp3.1\ReadAndWriteData.pdb
+C:\Users\This_User\Desktop\לימודים\יד\מסלול\H.W\Project\ReadAndWriteData\bin\Debug\netcoreapp3.1\Algoritem.dll
+C:\Users\This_User\Desktop\לימודים\יד\מסלול\H.W\Project\ReadAndWriteData\bin\Debug\netcoreapp3.1\Algoritem.pdb
+C:\Users\This_User\Desktop\לימודים\יד\מסלול\H.W\Project\ReadAndWriteData\obj\Debug\netcoreapp3.1\ReadAndWriteData.csproj.CopyComplete
